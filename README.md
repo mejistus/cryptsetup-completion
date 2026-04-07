@@ -18,7 +18,7 @@ Zsh completion plugin for [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup)
 ### Oh My Zsh
 
 ```bash
-git clone https://github.com/<your-user>/cryptsetup-completion \
+git clone https://github.com/mejistus/cryptsetup-completion \
   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/cryptsetup-completion
 ```
 
